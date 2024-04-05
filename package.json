@@ -1,0 +1,17 @@
+{
+  "name": "user-insight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PaulThiberville/user-insight.git",
+  "author": "paul.thiberville@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-useragent": "^1.0.15",
+    "geoip-lite": "^1.4.10",
+    "ua-parser-js": "^1.0.37"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
