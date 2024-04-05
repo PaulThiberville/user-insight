@@ -6,8 +6,8 @@ Welcome to User Insight Express App, a simple Express.js application that provid
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Run `npm start` or `node index.js` to start the server.
+3. Run `yarn` to install dependencies.
+4. Run `yarn start` or `node index.js` to start the server.
 
 ## Usage
 
